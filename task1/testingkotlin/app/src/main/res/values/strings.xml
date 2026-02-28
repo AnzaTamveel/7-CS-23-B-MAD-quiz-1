@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testingkotlin</string>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>UK</item>
+        <item>Other</item>
+    </string-array>
+</resources>
