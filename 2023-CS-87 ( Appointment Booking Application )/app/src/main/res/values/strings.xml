@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">2023-CS-87</string>
+    <string name="splash_welcome">Welcome to the Appointment Booking App</string>
+    <string name="home_title">Smart Appointment Booking</string>
+    <string name="home_description">Book your appointments easily and conveniently. Schedule doctor visits, dental appointments, and more with just a few taps.</string>
+    <string name="book_appointment_btn">Book Appointment</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email Address</string>
+    <string name="appointment_type">Appointment Type</string>
+    <string name="appointment_date">Appointment Date</string>
+    <string name="appointment_time">Appointment Time</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="terms_conditions">I accept Terms and Conditions</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="confirmation_title">Appointment Confirmed!</string>
+    <string name="booking_details">Booking Details</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="validation_name_empty">Please enter your name</string>
+    <string name="validation_phone_empty">Please enter your phone number</string>
+    <string name="validation_email_empty">Please enter your email address</string>
+    <string name="validation_type_empty">Please select an appointment type</string>
+    <string name="validation_terms">Please accept the terms and conditions</string>
+    <string name="validation_phone_invalid">Please enter a valid phone number</string>
+    <string name="validation_email_invalid">Please enter a valid email address</string>
+    <string name="doctor_consultation">Doctor Consultation</string>
+    <string name="dentist_appointment">Dentist Appointment</string>
+    <string name="eye_specialist">Eye Specialist</string>
+    <string name="skin_specialist">Skin Specialist</string>
+    <string name="general_checkup">General Checkup</string>
+</resources>

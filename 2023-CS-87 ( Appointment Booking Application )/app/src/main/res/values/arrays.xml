@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="appointment_types">
+        <item>Select Appointment Type</item>
+        <item>Doctor Consultation</item>
+        <item>Dentist Appointment</item>
+        <item>Eye Specialist</item>
+        <item>Skin Specialist</item>
+        <item>General Checkup</item>
+    </array>
+</resources>
+
